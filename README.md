@@ -24,3 +24,4 @@
 
 ## 行为模式
 
+![Image text](https://github.com/chenlujiu/server/blob/master/model.png)
