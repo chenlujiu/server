@@ -7,9 +7,9 @@
  - Complier: g++ 5.4
 
 ## 配置
-默认端口：8888
-默认子Ractor数量：4
-默认日志文件路径：./WebServer.log
+ - 默认端口：8888
+ - 默认子Ractor数量：4
+ - 默认日志文件路径：./WebServer.log
 
 ## 主要技术要点
 
