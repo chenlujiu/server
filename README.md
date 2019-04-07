@@ -12,7 +12,7 @@
  - 默认日志文件路径：./WebServer.log
 
 ## 主要技术要点
-[具体介绍](https://github.com/chenlujiu/server/blob/master/%E5%B9%B6%E5%8F%91%E7%B3%BB%E7%BB%9F)
+[具体介绍](https://github.com/chenlujiu/server/blob/master/%E5%B9%B6%E5%8F%91%E7%B3%BB%E7%BB%9F.md)
 
  - epoll+边沿触发+非阻塞socket+ractor
  - 使用多线程提高多核cpu利用率
